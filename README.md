@@ -1,1 +1,1 @@
-# classification-feature_extraction-data_imbalanced
+# classification-feature_extraction and data is imbalanced
